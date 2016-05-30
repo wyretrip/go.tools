@@ -13,7 +13,6 @@ import (
 
 	"golang.org/x/tools/go/loader"
 	"golang.org/x/tools/go/types"
-	"golang.org/x/tools/refactor/lexical"
 	"golang.org/x/tools/refactor/satisfy"
 )
 
